@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="jarvis_bg">#FF0A0E17</color>
+    <color name="jarvis_surface">#FF121826</color>
+    <color name="jarvis_primary">#FF00D4FF</color>
+    <color name="jarvis_primary_dark">#FF0099CC</color>
+    <color name="jarvis_accent">#FF00FFAA</color>
+    <color name="jarvis_glow">#4000D4FF</color>
+    <color name="jarvis_text">#FFE0F7FA</color>
+    <color name="jarvis_text_secondary">#FF90A4AE</color>
+    <color name="jarvis_error">#FFFF5252</color>
+    <color name="jarvis_user_bubble">#FF1A237E</color>
+    <color name="jarvis_ai_bubble">#FF0D47A1</color>
+    <color name="status_listening">#FF00E676</color>
+    <color name="status_thinking">#FFFFD600</color>
+    <color name="status_speaking">#FF00B0FF</color>
+    <color name="status_ready">#FF00D4FF</color>
+</resources>

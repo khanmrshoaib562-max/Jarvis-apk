@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="listening">Listening...</string>
+    <string name="thinking">Thinking...</string>
+    <string name="speaking">Speaking...</string>
+    <string name="ready">Ready</string>
+    <string name="permission_denied">Microphone permission is required for voice commands. Please grant permission to continue.</string>
+    <string name="permission_rationale">JARVIS needs microphone access to listen to your voice commands.</string>
+    <string name="speech_not_available">Speech recognition is not available on this device.</string>
+    <string name="tts_not_available">Text-to-Speech is not available. Showing text response only.</string>
+    <string name="error_speech">Speech recognition error. Please try again.</string>
+    <string name="error_network">Network error. Please check your connection.</string>
+    <string name="stop">Stop</string>
+    <string name="start_voice">Start Voice Mode</string>
+    <string name="type_message">Type a message or tap mic...</string>
+    <string name="send">Send</string>
+    <string name="jarvis_greeting">Hello, I am JARVIS. How can I help you?</string>
+</resources>
